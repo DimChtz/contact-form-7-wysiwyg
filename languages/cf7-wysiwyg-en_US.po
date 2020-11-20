@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WYSIWYG Editor for Contact Form 7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-08 23:43+0200\n"
+"PO-Revision-Date: 2020-11-08 23:47+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/modules/admin.php:61
+msgid "WYSIWYG Editor for Contact Form 7 is enabled but not effective"
+msgstr ""
+
+#: includes/modules/admin.php:62
+msgid "Please install and activate"
+msgstr ""
+
+#: includes/modules/admin.php:62
+msgid "Contact Form 7"
+msgstr ""
+
+#: templates/generator.php:3
+msgid "Generate a WYSIWYG Editor Field."
+msgstr ""
+
+#: templates/generator.php:8 templates/generator.php:11
+msgid "Name"
+msgstr ""
+
+#: templates/generator.php:17 templates/generator.php:20
+msgid "Class"
+msgstr ""
+
+#: templates/generator.php:26 templates/generator.php:29
+msgid "ID"
+msgstr ""
+
+#: templates/generator.php:42
+msgid "Insert Tag"
+msgstr ""
